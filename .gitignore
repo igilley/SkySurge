@@ -1,0 +1,27 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# Asset Store tools
+Assets/AssetStoreTools*
+
+# IDE and OS clutter
+.vscode/
+.idea/
+.DS_Store
+*.sln
+*.csproj
+
+# Binary and archive files
+*.exe
+*.apk
+*.ipa
+*.zip
+*.dll
+*.dylib
+*.so
